@@ -1,0 +1,5 @@
+com/burak/mongodb/document/Users.class
+com/burak/mongodb/SpringBootMongodbExampleApplication.class
+com/burak/mongodb/resource/UsersResource.class
+com/burak/mongodb/config/MongoDBConfig.class
+com/burak/mongodb/repository/UserRepository.class
